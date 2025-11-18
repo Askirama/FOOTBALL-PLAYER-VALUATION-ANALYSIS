@@ -13,5 +13,3 @@ This analysis identifies systematic market inefficiencies in football player val
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **SQL** (SQLite, Complex queries)
 - **Data Analysis** (Statistical analysis, Financial ratios)
-
-## 📁 Project Structure
